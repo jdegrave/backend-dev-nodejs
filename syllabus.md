@@ -33,6 +33,10 @@
 
 # Grading
 
+This is a pass / fail course; there are no traditional grades. If at any time you are curious about your progress and where you stand, please feel free to reach out to the instructors.
+
+Throughout the course, there will be quizzes and projects that serve as a means to provide information on progress and understanding on various subjects. The instructors will provide feedback on each of these, but they are not included as part of a final grade.
+
 # Academic Integrity
 
 - We expect students to abide by the University of Arkansas's Academic Integrity Policy: http://honesty.uark.edu/policy/
