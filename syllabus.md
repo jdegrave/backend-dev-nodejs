@@ -34,3 +34,5 @@
 # Grading
 
 # Academic Integrity
+
+- We expect students to abide by the University of Arkansas's Academic Integrity Policy: http://honesty.uark.edu/policy/
