@@ -4,7 +4,7 @@
    - johnstonbl01@gmail.com
 
 - Brenna Blackwell
-    - brenna@example.com
+    - brennablackwell@gmail.com
 
 - Be sure to include both Blake and Brenna on all emails regarding this course. We will try to maintain a 24 hour turnaround time on all emails for this class.
 
