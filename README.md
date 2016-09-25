@@ -8,4 +8,4 @@ Course materials (syllabus, lectures, additional resources) for the UAGC IT Read
 - Lectures
   - [01 - How the Web Works](/01-how-the-web-works/README.md)
 - [Resources](resources.md)
-- [Schedule](https://docs.google.com/spreadsheets/d/1L2Srs2SJJ7XQxkmGnTR5d2v0-kLzur-y4GIsLFyVCQM)
+- [Schedule](https://docs.google.com/spreadsheets/d/1t6GI6iSBET7IVN0TqDXziwXH8D1L9xu5sa-bXAtGps0/edit?usp=sharing)
