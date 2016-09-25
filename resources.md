@@ -47,9 +47,3 @@
 - FayettePy
 - Free Code Camp NWA
 - NWA Developers Group
-
-# Technical Resources
-
-- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
-- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
-- https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm

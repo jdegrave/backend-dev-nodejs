@@ -2,6 +2,5 @@
 
 ## Table of Contents
 
-- Slides (pdf)
-- Slides (code)
-- Resources
+- [Slides](/slides)
+- [Resources](resources.md)
