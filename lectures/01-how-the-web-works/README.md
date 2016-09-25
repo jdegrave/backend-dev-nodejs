@@ -2,5 +2,5 @@
 
 ## Table of Contents
 
-- [Slides](/slides)
+- [Slides](/lectures/01-how-the-web-works/slides)
 - [Resources](resources.md)

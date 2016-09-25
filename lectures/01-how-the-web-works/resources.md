@@ -11,4 +11,4 @@
 
 ## Network Service Providers
 
-[Wikipedia](https://en.wikipedia.org/wiki/Network_service_provider)
+- [Wikipedia](https://en.wikipedia.org/wiki/Network_service_provider)
