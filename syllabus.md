@@ -11,7 +11,7 @@
 # Meeting Times
 
 - We meet regularly on Mondays and Wednesdays from 6:00 pm to 9:00 pm and every other Saturday, starting October 1st, from 9:00 am to 5:00 pm.
-    - Breaks will be provided during class, so feel free to bring meals and snacks (there's a refrigerator in the break room).
+    - Breaks will be provided during class, so feel free to bring meals and snacks (there's a refrigerator and microwave available in the break room).
     - A spreadsheet will be provided so as to keep track of holidays where we will not be having class.
 
 ## Inclement Weather
@@ -39,4 +39,4 @@ Throughout the course, there will be quizzes and projects that serve as a means 
 
 # Academic Integrity
 
-- We expect students to abide by the University of Arkansas's Academic Integrity Policy: http://honesty.uark.edu/policy/
+- We expect students to abide by the [University of Arkansas's Academic Integrity Policy](http://honesty.uark.edu/policy/)
