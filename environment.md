@@ -13,7 +13,7 @@
   export NVM_DIR="$HOME/.nvm"
   [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
   ```
-  Make sure the first line has the full export command, since that was causing us problems in class yesterday. Manually fix it in your bash profile if you have to.
+  \sMake sure the first line has the full export command, since that was causing us problems in class yesterday. Manually fix it in your bash profile if you have to.
 - Exit vim via `esc`, then press and hold `shift`, then press `z` twice
 - Completely quit your terminal `command + q`
 - Reopen terminal
