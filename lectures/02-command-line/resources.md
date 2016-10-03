@@ -12,8 +12,3 @@
 [Standard Streams (Wikipedia)](https://en.wikipedia.org/wiki/Standard_streams)
 
 [Command Line Crash Course (Viking Code School)](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
-
-## Source Control
-[Git](https://git-scm.com/)
-
-[Git For Ages 4 And Up (Youtube)](https://youtu.be/1ffBJ4sVUb4)

@@ -1,4 +1,4 @@
-# Command Line and Source Control
+# Command Line
 
 ## Table of Contents
 
