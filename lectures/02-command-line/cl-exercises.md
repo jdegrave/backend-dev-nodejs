@@ -33,3 +33,9 @@
   - Changes to that directory
   - Creates a file named `shell.txt`
     - Write 5 lines in this file
+
+## Exercise 5
+
+- Exercise 5
+  - Read the file you created in exercise 4 and place one line of that text in its own file
+  - Do this with a single command without using `&&` or `;`
