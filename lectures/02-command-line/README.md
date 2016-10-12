@@ -7,4 +7,5 @@
 - [Command Line Exercises](cl-exercises.md)
 - [Command Line Exercise Solutions](cl-exercises-solutions.md)
 - [Homework 1 - Command Line](homework01.md)
+- [Homework 2 - Command Line (continued)](homework02.md)
 - [Resources](resources.md)

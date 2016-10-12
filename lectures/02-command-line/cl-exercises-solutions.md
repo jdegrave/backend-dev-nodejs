@@ -69,3 +69,13 @@ This should be the result:
 This is an example of an alias that will accomplish all of the exercise objectives:
 
 `alias kapow='mkdir shazam && cd $_ && touch magic-wand.txt && echo -e "1\n2\n3\n4\n5" >> $_`
+
+## Exercise 5
+
+There are several ways to accomplish the goal of this exercise. Here are a few:
+
+`grep -oni 3 < magic-wand.txt > lines.txt`
+
+`head -1 > lines.txt`
+
+`cat magic-wand.txt | grep 3 > lines.txt`
