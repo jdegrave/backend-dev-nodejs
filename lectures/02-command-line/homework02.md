@@ -4,7 +4,7 @@
 
 ### Further Reading
 
-Please read through the Viking Code School article, [Git For Ages 4 And Up (Youtube)](https://youtu.be/1ffBJ4sVUb4). This is a really wonderful video that explains how git works in very basic and illustrative terms.
+Please watch [Git For Ages 4 And Up (Youtube)](https://youtu.be/1ffBJ4sVUb4). This is a really wonderful video that explains how git works in very basic and illustrative terms.
 
 ### Exercise 1
 
