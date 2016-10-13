@@ -1,0 +1,276 @@
+- IDE / Text Editor (me)
+  - IDE vs Text Editor
+    - IDE
+      - 3 (4) Parts
+        - Editor
+        - Build Automation
+        - Debugger
+        - Refactoring (sometimes)
+      - Larger application
+      - Poorer performance
+      - Can increase productivity
+      - Provides valuable tools
+    - Text Editor
+      - Smaller & lightweight
+      - Many fewer features
+      - Just an editor
+        - No automation
+        - No debugger
+        - No Refactoring
+      - Faster performance
+  - Common options
+    - Atom
+    - Sublime Text
+    - VS Code
+    - Web Storm / PHP Storm
+    - VIM
+    - emacs
+      - Recommend spacemacs
+
+- Command line
+  - History
+    - Shell: "any program that users employ to type commands" (-Wikipedia)
+      - Interfaces directly with the OS kernal
+        - Kernal is typically the lowest level component of an OS
+    - First shell: Thompson shell
+      - Written at Bell Labs in 1971
+      - Lots of features for subsequent shells came from this one
+    - First "modern" shells: Bourne shell & C shell
+      - Bourne shell
+        - 1979 at Bell Labs
+        - Every current macOS & Linux distro comes with a version of this shell called `bash`
+          - Bourne Again Shell
+      - C shell
+        - Bill Joy as grad student at UC-Berkeley in late 70s
+    - Unix Shell
+      - Serves as a command language and scripting language
+      - `bash`
+        - Written by Brian Fox in 1989 for the GNU project as free replacement for Bourne shell
+        - Can enter commands or read them from a file (scripting)
+        - Takes some features from C shell
+  - Subjects
+    - home directory
+      - Your default starting location
+      - Represented by `~`
+      - When opening a new terminal window, this is the default location
+    - bash profile
+      - stores user-specific information
+      - found in home folder
+      - `~/.bash_profile`
+        - sometimes you'll see `~/.bashrc` instead
+    - entering a command
+      - `[command] -[argument(s)] input`
+      - `ls -a`
+      - `grep npm`
+      - `ls -al | grep npm`
+    - print to terminal
+      - `echo`
+    - list directory contents
+      - `ls`
+        - list
+      - common arguments
+        - `a`: show all files & folders (even hidden)
+        - `h`: show sizes in readable format
+        - `l`: show in long list format
+        - `t`: sort by modification time
+    - make directory
+      - `mkdir`
+        - `mkdir [directory]`
+    - change directory
+      - `cd`
+        - `cd [directory]`
+    - present working directory
+      - `pwd`
+    - create a file
+      - `touch`
+        - `touch [filename]`
+        - can use with absolute path
+    - determine file type
+      - `file`
+        - `file [filename]`
+    - remove a file
+      - `rm`
+        - remove
+        - common arguments
+          - `r`: remove a directory and all its contents (recursive)
+          - `f`: never prompt (force)
+    - rename a file
+      - `mv`
+        - move
+        - `mv [oldname] [newname]`
+    - move a file
+      - `mv`
+        - move
+        - `mv [oldlocation] [newlocation]`
+    - copy a file
+      - `cp`
+        - copy
+        - `cp [origfile] [newfile]`
+          - If new file exists, it will overwrite new file
+        - common options:
+          - `i`: interactive; will prompt before overwriting
+          - `-R`: copy a directory and all sub directories / files (recursive)
+    - search file contents
+      - `grep`
+        - global regular expression print
+        - `grep [arguments] [phrase] [filelocation]`
+        - common arguments
+          - `i`: ignore case
+          - `n`: show line number in result
+          - `o`: only show the matching words or phrases
+      - `head`
+        - head of file
+        - `head [arguments] [file(s)]`
+        - common arguments
+          - `n`: Shows only `n` lines in the file (`head -100`)
+      - `tail`
+        - tail (end) of file
+        - `tail [arguments] [file(s)]`
+        - common arguments
+          - `n`: Shows only `n` lines in the file (`tail -100`)
+      - `cat`
+        - concatenate files and output in terminal
+        - common arguments
+          - `n`: Show line numbers in result
+    - list recent commands
+      - `history`
+        - common arguments
+          - `n`: show only last `n` commands
+      - Ctrl + R
+        - recursive history search
+        - pressing Ctrl + R again scrolls through matches
+    - file permissions
+      - show picture from resource below
+      - `0123456789  20 bjohnston  staff   680 Sep 24 22:34 lecture01`
+        - `drwxr-xr-x`
+        - `0`: file type
+          - `-`: normal file
+          - `d`: directory
+        - `1-9`: permissions
+          - `r`: read
+          - `w`: write
+          - `x`: execute
+          - `1-3`: file owner permissions
+          - `4-6`: group's permissions
+          - `789`: everyone else
+        - `20`: number of hard links
+        - `bjohnston`: owner name
+        - `staff`: owner group
+        - `680`: file size
+        - `Sep...`: last modified date
+        - `lecture01`: file / directory name
+      - `chmod`
+        - change mode
+        - numbers method
+        - `chmod ###`
+          - `read (r)`: 4
+          - `write (w)`: 2
+          - `execute (x)`: 1
+          - owner > group > everyone
+    - aliases
+      - it's possible to create custom shortcut commands via aliases in your bash_profile
+      - `alias [name]='terminal command'`
+      - `alias cf='touch'`
+    - root / sudo
+      - `super user do`
+      - The 'admin' of the console
+      - Required as a command when administrative action is required
+      - The terminal window will prompt for password
+      - Root is a synonym for super user
+    - variables
+      - last argument of last command
+        - `$_`
+      - home dir
+        - `$HOME`
+      - path
+        - `$PATH`
+        - Search path
+        - When an unknown command is typed into the terminal, this comprises the list of directories it will search through to find the executable for the command
+      - current directory
+        - `.`
+        - can be used to represent current directory when writing commands
+    - run multiple commands
+      - `&&`
+        - This will execute a command only if the previous command was successful
+        - `mkdir my-folder && cd $_`
+      - `;`
+        - This will execute commands regardless of whether or not the previous command succeeds
+    - stdin, stdout, stderr
+      - stdin (0)
+        - `standard input`
+        - Data fed into the program
+      - stdout (1)
+        - `standard output`
+        - Data printed by the program
+          - defaults to the terminal
+      - stderr (2)
+        - `standard error`
+        - Messages & errors
+          - defaults to the terminal
+      - redirecting output
+        - to a file
+          - `>`
+          - Will write stdout to a filename specified
+          - Creates a new file if file does not exist
+          - If file exists, will overwrite content
+            - Use `>>` to append
+          - `ls > files.txt`
+          - `cat file1.txt file2.txt > all-files.txt`
+        - to redirect stderr, specify the stream number (2) and the carrot `>`
+        - from a file
+          - `<`
+          - redirects stdout from a file to the program
+          - `grep nomnomnom < bacon.txt`
+    - piping
+      - sends data from one program to another
+      - left output feeds into right output
+      - `ls . | grep npm`
+    - top
+      - table of processes
+      - `top`
+      - provides a real-time view of current running processes in the OS
+    - kill
+      - `kill`
+      - terminates a currently running process
+      - `kill [process id]`
+    - compress / uncompress
+      - `tar`
+      - tape archive
+      - also commonly called a 'tarball'
+      - common options
+        - `c`: create an archive
+        - `v`: verbose; displays all files added to the tarball
+        - `f`: specify the filename
+        - `x`: extract the archive
+        - `C`: changes to specified directory
+        - `t`: list contents of archive
+        - `z`: create a gzip archive
+      - `tar -cvf example.tar my-project/` (compress)
+      - `tar -xvf example.tar` (uncompress)
+        - uncompresses in current directory
+        - `-C` will
+      - there is also a `zip` command
+    - autocomplete
+      - `tab`
+      - Terminal will try to autocomplete directories or files as you type them in
+    - ide commands
+      - atom
+      - subl
+      - vim
+    - scripting
+      - it's also possible to create a file that's a series of commands and execute it
+      - this is very common in dev ops work, and a very useful skill
+      - `sh` or `bash`
+      - `sh [filename]`
+        - Can append any number of commands
+    - man pages
+      - `man`
+      - manual pages
+      - `man [command]`
+  - Alternatives / enhancements to the shell
+    - Z shell (zsh)
+      - A replacement for bash that includes features of Korn shell and tcsh (t-shell)
+    - iTerm 2
+      - Replacement for the macOS terminal app
+    - Hyperterm
+      - Electron app written in HTML, CSS & JavaScript
