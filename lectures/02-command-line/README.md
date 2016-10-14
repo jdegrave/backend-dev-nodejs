@@ -10,4 +10,5 @@
 - [Homework 1 - Command Line](homework01.md)
 - [Homework 1 - Command Line Solution](homework01-solution.md)
 - [Homework 2 - Command Line (continued)](homework02.md)
+- [Homework 2 - Command Line (continued) Solution](homework02-solution.md)
 - [Resources](resources.md)
