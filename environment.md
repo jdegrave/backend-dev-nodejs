@@ -3,7 +3,7 @@
 - Open terminal using `command+space` to open Spotlight and type `terminal` into the search field
 - Type `git` and download anything if there are prompts. Otherwise, you should see a usage guide.
 - Install nvm:
-  ```sh
+  ```
   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash
   ```
 - Create your bash profile `touch ~/.bash_profile`
