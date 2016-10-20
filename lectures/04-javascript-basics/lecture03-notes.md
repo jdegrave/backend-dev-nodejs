@@ -1,4 +1,4 @@
-e[Loops](#loops) | [Functions](#functions)
+[Loops](#loops) | [Functions](#functions)
 
 ## Loops
 
