@@ -17,3 +17,10 @@
 - [Free Code Camp](https://www.freecodecamp.com)
 - [JavaScripting](https://github.com/workshopper/javascripting)
 - [Learning JS Project Ideas](https://github.com/quitrk/LearningJS)
+
+## Additional Function Material
+
+- [JS for Cats - Functions](http://jsforcats.com/#functions)
+- [Eloquent JS - Annotated Version - Program Structure](https://docs.google.com/document/d/1aa2-HtUglQrAps31s4LdTPVsiFb1BxhyjZolxeezzcI/edit#heading=h.1xxu14bhi3s0)
+- [MDN - Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+- [LearnCode.academy (Youtube)](https://www.youtube.com/watch?v=AY6X5jZZ_JE)
