@@ -29,6 +29,11 @@
 - [Lecture 3 - Exercises](lecture03-exercises.md)
 - [Lecture 3 - Exercise Solutions](lecture03-exercise-solutions.md)
 
+### Lecture 4
+
+- [Lecture 4 - Exercises](lecture04-exercises.md)
+- [Lecture 4 - Exercise Solutions](lecture04-exercise-solutions.md)
+
 ## Resources
 
 - [Resources](resources.md)
