@@ -34,6 +34,11 @@
 - [Lecture 4 - Exercises](lecture04-exercises.md)
 - [Lecture 4 - Exercise Solutions](lecture04-exercise-solutions.md)
 
+### Lecture 5
+
+- [Lecture 5 - Exercises](lecture05-exercises.md)
+- [Lecture 5 - Exercise Solutions](lecture05-exercise-solutions.md)
+
 ## Resources
 
 - [Resources](resources.md)
