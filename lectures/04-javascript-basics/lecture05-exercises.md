@@ -9,18 +9,18 @@ Write a function that takes a phone number as an argument and performs the follo
 - If the phone number is more than 11 digits assume that it is a bad number
 
 ## Test Cases
-console.log(phoneNumber('(123) 456-7890'));
-console.log(phoneNumber('123.456.7890'));
-console.log(phoneNumber('11234567890'));
-console.log(phoneNumber('21234567890'));
-console.log(phoneNumber('123456789'))
+console.log(phoneNumber('(123) 456-7890'));  
+console.log(phoneNumber('123.456.7890'));  
+console.log(phoneNumber('11234567890'));  
+console.log(phoneNumber('21234567890'));  
+console.log(phoneNumber('123456789'));  
 
 ## Expected Result
-1234567890
-1234567890
-1234567890
-0000000000
-0000000000
+1234567890  
+1234567890  
+1234567890  
+0000000000  
+0000000000  
 
 
 # Exercise 2
@@ -34,9 +34,9 @@ Write a function that takes a ROT13 cipher and decodes it.
 Hint: look into charCodeAt() - capital A is at ???, capital Z is at ???
 
 ## Test Cases
-console.log(cipher('SERR CVMMN'))
-console.log(cipher('LBH QVQ VG'));
+console.log(cipher('SERR CVMMN'));  
+console.log(cipher('LBH QVQ VG'));  
 
 ## Expected Result
-FREE PIZZA
-YOU DID IT
+FREE PIZZA  
+YOU DID IT  
