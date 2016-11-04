@@ -10,6 +10,7 @@
 - [Homework 2 - Nested Data and Conditionals](homework02.md)
 - [Homework 3 - JavaScript Practice](homework03.md)
 - [Homework 4 - More JavaScript Practice](homework04.md)
+- [Homework 5 - Even More JavaScript Practice](homework05.md)
 
 ### Lecture 1
 
