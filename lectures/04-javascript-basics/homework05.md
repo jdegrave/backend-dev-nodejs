@@ -6,7 +6,7 @@ Calculate the circumference of a circle, given the radius as a function argument
 
 ```js
 console.log(circumference(1));
-console.log(circumference(π));
+console.log(circumference('π'));
 console.log(circumference(0));
 console.log(circumference(-1));
 console.log(circumference(2720));
