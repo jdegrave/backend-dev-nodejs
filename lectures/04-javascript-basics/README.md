@@ -46,6 +46,11 @@
 - [Lecture 6 - Exercises](lecture06-exercises.md)
 - [Lecture 6 - Exercise Solutions](lecture06-exercise-solutions.md)
 
+### Lecture 7
+
+- [Lecture 7 - Exercises](lecture07-exercises.md)
+- [Lecture 7 - Exercise Solutions](lecture07-exercise-solutions.md)
+
 ## Resources
 
 - [Resources](resources.md)
