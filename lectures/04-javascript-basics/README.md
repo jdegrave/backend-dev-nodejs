@@ -51,6 +51,11 @@
 - [Lecture 7 - Exercises](lecture07-exercises.md)
 - [Lecture 7 - Exercise Solutions](lecture07-exercise-solutions.md)
 
+### Lecture 8
+
+- [Lecture 8 - Exercises](lecture08-exercises.md)
+- [Lecture 8 - Exercise Solutions](lecture08-exercise-solutions.md)
+
 ## Resources
 
 - [Resources](resources.md)
