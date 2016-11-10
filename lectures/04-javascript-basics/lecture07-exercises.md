@@ -61,5 +61,5 @@ function merge (a, b) {
   return a + b.charCodeAt(0);
 }
 
-console.log(zip([1, 2, 3, 4, 5], ['a','b','c','d','e'], merge));   // [98, 100, 102, 104, 106
+console.log(zip([1, 2, 3, 4, 5], ['a','b','c','d','e'], merge));   // [98, 100, 102, 104, 106]
 ```
