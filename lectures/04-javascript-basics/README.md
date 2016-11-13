@@ -11,6 +11,7 @@
 - [Homework 3 - JavaScript Practice](homework03.md)
 - [Homework 4 - More JavaScript Practice](homework04.md)
 - [Homework 5 - Even More JavaScript Practice](homework05.md)
+- [Homework 6 - Even More of More JavaScript Practice](homework06.md)
 
 ### Lecture 1
 
@@ -55,6 +56,14 @@
 
 - [Lecture 8 - Exercises](lecture08-exercises.md)
 - [Lecture 8 - Exercise Solutions](lecture08-exercise-solutions.md)
+
+### Lecture 9
+
+- [Lecture 9 - Exercises](lecture09-exercises.md)
+- [Lecture 9 - Exercise Solutions](lecture09-exercise-solutions.md)
+- [Lecture 9 - Jeopardy Questions](lecture09-jeopardy-questions.md)
+- [Lecture 9 - Jeopardy Answers](lecture09-jeopardy-answers.md)
+
 
 ## Resources
 

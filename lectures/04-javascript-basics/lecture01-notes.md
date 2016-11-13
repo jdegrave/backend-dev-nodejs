@@ -48,10 +48,10 @@ typeof "javascript"  // returns "string"
 
 [Arithmetic operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Arithmetic_operators) in JS take numerical values (which can also be variables) as operands and returns a single mathematical result.
 
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
+- Addition ( + )
+- Subtraction ( - )
+- Multiplication ( * )
+- Division ( / )
 
 There are also a few special JS arithmetic operators.
 
