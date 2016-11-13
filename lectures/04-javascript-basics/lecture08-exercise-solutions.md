@@ -46,7 +46,7 @@ function authList (arr) {
         validLowercase = true;
       }
 
-      if (arr[i][j].charCodeAt(0) < 97 || arr[i][j].charCodeAt(0) > 122) {
+      if ((arr[i][j].charCodeAt(0) < 97 || arr[i][j].charCodeAt(0) > 122) && !validNumber) {
         validChars = false;
       }
     }
