@@ -64,6 +64,10 @@
 - [Lecture 9 - Jeopardy Questions](lecture09-jeopardy-questions.md)
 - [Lecture 9 - Jeopardy Answers](lecture09-jeopardy-answers.md)
 
+### Lecture 10
+
+- [Lecture 10 - Exercises](lecture10-exercises.md)
+- [Lecture 10 - Exercise Solutions](lecture10-exercise-solutions.md)
 
 ## Resources
 
