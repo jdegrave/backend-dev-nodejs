@@ -15,10 +15,10 @@ persistence(4) === 0 // because 4 is already a one-digit number
 ```
 
 ```js
-console.log(persistence(39));    // 4
+console.log(persistence(39));    // 3
 console.log(persistence(4));     // 0
-console.log(persistence(25));    // 0
-console.log(persistence(999));   // 2
+console.log(persistence(25));    // 2
+console.log(persistence(999));   // 4
 ```
 
 # Exercise 2
