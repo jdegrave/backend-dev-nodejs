@@ -80,6 +80,10 @@
 - [Lecture 11 - Exercises](lecture11-exercises.md)
 - [Lecture 11 - Exercise Solutions](lecture11-exercise-solutions.md)
 
+### Lecture 12
+
+- [Lecture 11 - Outline](lecture12-outline.md)
+
 ## Resources
 
 - [Resources](resources.md)
