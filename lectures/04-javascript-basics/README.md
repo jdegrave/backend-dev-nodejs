@@ -82,7 +82,7 @@
 
 ### Lecture 12
 
-- [Lecture 11 - Outline](lecture12-outline.md)
+- [Lecture 12 - Outline](lecture12-outline.md)
 
 ## Resources
 
