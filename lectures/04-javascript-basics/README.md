@@ -1,4 +1,4 @@
-# Command Line
+# JavaScript Lectures
 
 ## Table of Contents
 

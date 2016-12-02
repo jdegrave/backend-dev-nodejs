@@ -1,0 +1,25 @@
+# JavaScript `this` and Regular Expressions
+
+- Review homework questions
+- `this`
+  - Quick Review
+    - What is it?
+    - Practical Examples
+  - Exercise 1
+- Regular Expressions
+  - What are they?
+  - The basics
+    - Syntax
+      - Option flags
+        - global
+        - case insensitive
+      - Common Operators
+        - digit
+        - wildcard
+        - start
+        - end
+        - any word character
+        - # of repetitions
+        - optional
+        - whitespace
+        - one or more repetitions
