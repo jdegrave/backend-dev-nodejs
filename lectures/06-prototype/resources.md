@@ -1,0 +1,5 @@
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
+- https://developer.mozilla.org/en-US/Add-ons/SDK/Guides/Contributor_s_Guide/Classes_and_Inheritance
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
