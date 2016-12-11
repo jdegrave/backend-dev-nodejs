@@ -12,6 +12,7 @@ Course materials (syllabus, lectures, additional resources) for the UAGC IT Read
   - [04 - JavaScript Basics](/lectures/04-javascript-basics/README.md)
   - [05 - `this` and Regular Expressions](/lectures/05-this-and-regex/README.md)
   - [06 - Scope and Closures](/lectures/06-scope-and-closures/README.md)
+  - [07 - Prototype](/lectures/07-prototype/README.md)
 - [Tests](/lectures/tests/README.md)
 - [Resources](resources.md)
 - [Environment Setup](environment.md)
