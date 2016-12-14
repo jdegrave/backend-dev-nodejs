@@ -14,7 +14,7 @@ Course materials (syllabus, lectures, additional resources) for the UAGC IT Read
   - [06 - Scope and Closures](/lectures/06-scope-and-closures/README.md)
   - [07 - Prototype](/lectures/07-prototype/README.md)
   - [08 - Recursion and Unit Testing](/lectures/08-recursion-and-unit-testing/README.md)
-  - [09 - All Together Now](/lectures/08-all-together-now/README.md)
+  - [09 - All Together Now](/lectures/09-all-together-now/README.md)
 - [Tests](/lectures/tests/README.md)
 - [Resources](resources.md)
 - [Environment Setup](environment.md)
