@@ -10,8 +10,6 @@ function gcd(a, b) {
 
 console.log(gcd(20, 12));
 ```
-
-
 2. Given a multidimensional array, return the total number of integers stored anywhere in the array. Do not specifically hardcode for a number of dimensions. You may assume that no other data types will be present in the arrays.
   Examples:
     * [] results in 0
