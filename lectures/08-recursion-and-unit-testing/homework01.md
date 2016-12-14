@@ -1,15 +1,15 @@
 1. Trace out the following code sample by hand and determine the final output:
-```js
-function gcd(a, b) {
-  if (b === 0) {
-    return a;
-  } else {
-    return gcd(b, a % b);
+  ```js
+  function gcd(a, b) {
+    if (b === 0) {
+      return a;
+    } else {
+      return gcd(b, a % b);
+    }
   }
-}
 
-console.log(gcd(20, 12));
-```
+  console.log(gcd(20, 12));
+  ```
 2. Given a multidimensional array, return the total number of integers stored anywhere in the array. Do not specifically hardcode for a number of dimensions. You may assume that no other data types will be present in the arrays.
   Examples:
     * [] results in 0
