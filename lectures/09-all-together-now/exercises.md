@@ -47,7 +47,7 @@ The New York Times has hired you to gather metrics about their website. $$ BIG P
   - Note that an HTML element is anything between `<` and `>` symbol. For example `<div></div>` is one element which has an opening and closing HTML tag.
 - In this file, create a function that will take in a string of HTML and output the number of times `New York` is referenced in the file (hyperlinks do not count)
 - Within this same file, create a function that tests each of the above output scenarios and outputs `true` where the function is successful and false otherwise
-- HTML content can be found in this directory, as `content.js`. This text can be imported into your file using `var htmlContent = require('./content.js');`
+- HTML content can be found in this directory, as `content.js`. This text can be imported into your file using `var htmlContent = require('./content.js')();`
 - Commit and push all changes to a new GitHub repository from the command line
 
 # Exercise 4
