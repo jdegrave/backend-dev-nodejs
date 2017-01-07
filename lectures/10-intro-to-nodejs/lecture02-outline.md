@@ -1,0 +1,31 @@
+- How to write a Node.js module
+- Exercise 1
+- Standard Library
+  - Path
+    - Windows vs POSIX (i.e. everything else)
+    - `path.basename`
+    - `path.dirname`
+    - `path.resolve`
+  - File System
+    - `fs.writeFileSync`
+    - `fs.readFileSync`
+    - `fs.appendFileSync`
+    - `fs.unlinkSync`
+- Exercise 2
+- Node.js Event Emitter
+  - What's an Event?
+    - Diagram
+      - on
+      - emit
+    - What is an emitter?
+      - Build simple event emitter
+- Exercise 3
+  - Node (Custom) Events
+    - Show Events documentation
+- The Node Event Loop
+  - Synchronous vs Asynchronous
+    - Blocking vs Non-blocking
+      - Concurrent Users
+    - Diagram
+  - Event Loop
+    - Diagram

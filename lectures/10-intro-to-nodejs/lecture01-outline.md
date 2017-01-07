@@ -1,0 +1,26 @@
+- History of Node.js
+  - When and why was it created?
+  - Review of context - where does Node.js fit in an application?
+    - Diagram
+  - What is the V8 engine?
+- What's NPM ?
+  - Why is it important?
+  - What are NPM modules?
+    - Show examples on NPM
+  - Usage
+    - Initialize
+    - Installing modules
+      - Install latest version
+      - Install specific version
+    - Removing modules
+    - Dependencies vs Dev Dependencies
+- Exercise 1
+- .gitignore
+  - What is it?
+  - How to use?
+- How to create a HTTP server
+  - Using Modules & Packages
+    - Node.js standard library
+  - Node.js API discovery
+    - Show documentation
+- Exercise 2
