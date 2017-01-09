@@ -219,7 +219,7 @@ fs.unlinkSync(path.resolve('new-file.txt'));
 fs.readFileSync('new-file.txt', 'utf-8'); // Error! No file new-file.txt exists!
 ```
 
-# Node.js Even Emitter
+# Node.js Event Emitter
 
 ## What's an Event?
 
