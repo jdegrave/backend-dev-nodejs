@@ -298,17 +298,3 @@ emitter.on('call-the-hogs', function () {
 
 emitter.emit('call-the-hogs');
 ```
-
-# The Node Event Loop
-
-## Synchronous vs Asynchronous
-
-Synchronous code is code that runs in order, one at a time.
-
-Asynchronous code is many things running at once.
-
-JavaScript is synchronous, but Node.js is asynchronous, thanks to the Event Loop.
-
-## Event Loop
-
-The event loop is a queue-system in Node that processes "jobs" as they are completed by the OS (or Node).
