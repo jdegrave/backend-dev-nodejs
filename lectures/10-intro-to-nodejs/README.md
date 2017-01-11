@@ -6,6 +6,10 @@
 
 [Lecture 1](#lecture-1) | [Lecture 2](#lecture-2)
 
+### Homework
+
+- [Homework 1 - Event Loop Reading](homework01.md)
+
 ### Lecture 1
 
 - [Lecture 1 - Outline](lecture01-outline.md)
@@ -19,3 +23,8 @@
 - [Lecture 2 - Notes](lecture02-notes.md)
 - [Lecture 2 - Exercises](lecture02-exercises.md)
 - [Lecture 2 - Exercise Solutions](lecture02-exercise-solutions.md)
+
+### Lecture 3
+
+- [Lecture 3 - Outline](lecture02-outline.md)
+- [Lecture 3 - Slides](lecture02-notes.md)
