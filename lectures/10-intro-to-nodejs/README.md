@@ -26,5 +26,5 @@
 
 ### Lecture 3
 
-- [Lecture 3 - Outline](lecture02-outline.md)
-- [Lecture 3 - Slides](lecture02-notes.md)
+- [Lecture 3 - Outline](lecture03-outline.md)
+- [Lecture 3 - Slides](lecture03-slides.pdf)
