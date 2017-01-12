@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Homework](#) | [Resources](#resources.md)
+[Homework](#) | [Resources](resources.md)
 
 [Lecture 1](#lecture-1) | [Lecture 2](#lecture-2)
 
