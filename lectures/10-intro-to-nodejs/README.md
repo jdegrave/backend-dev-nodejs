@@ -9,6 +9,7 @@
 ### Homework
 
 - [Homework 1 - Event Loop Reading](homework01.md)
+- [Homework 2 - Promise to Practice](homework02.md)
 
 ### Lecture 1
 
@@ -28,3 +29,10 @@
 
 - [Lecture 3 - Outline](lecture03-outline.md)
 - [Lecture 3 - Slides](lecture03-slides.pdf)
+
+### Lecture 4
+
+- [Lecture 4 - Outline](lecture04-outline.md)
+- [Lecture 4 - Notes](lecture04-notes.md)
+- [Lecture 4 - Exercises](lecture04-exercises.md)
+- [Lecture 4 - Exercise Solutions](lecture04-exercise-solutions.md)

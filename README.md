@@ -5,6 +5,7 @@ Course materials (syllabus, lectures, additional resources) for the UAGC IT Read
 ## Table of Contents
 
 - [Syllabus](syllabus.md)
+- [Capstone Project Requirements](capstone.md)
 - Lectures
   - [01 - How the Web Works](/lectures/01-the-internet-and-the-web/README.md)
   - [02 - Command Line](/lectures/02-command-line/README.md)
