@@ -4,7 +4,7 @@
 
 [Homework](#) | [Resources](resources.md)
 
-[Lecture 1](#lecture-1) | [Lecture 2](#lecture-2)
+[Lecture 1](#lecture-1) | [Lecture 2](#lecture-2) | [Lecture 3](#lecture-3) | [Lecture 4](#lecture-4) | [Lecture 5](#lecture-5)
 
 ### Homework
 
@@ -36,3 +36,7 @@
 - [Lecture 4 - Notes](lecture04-notes.md)
 - [Lecture 4 - Exercises](lecture04-exercises.md)
 - [Lecture 4 - Exercise Solutions](lecture04-exercise-solutions.md)
+
+### Lecture 5
+- [Lecture 5 - Outline](lecture05-outline.md)
+- [Lecture 5 - Slides](lecture05-slides.pdf)
