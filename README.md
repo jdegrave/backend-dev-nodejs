@@ -17,7 +17,7 @@ Course materials (syllabus, lectures, additional resources) for the UAGC IT Read
   - [08 - Recursion and Unit Testing](/lectures/08-recursion-and-unit-testing/README.md)
   - [09 - All Together Now](/lectures/09-all-together-now/README.md)
   - [10 - Intro to Node.js](/lectures/10-intro-to-nodejs/README.md)
-  - [11 - Intro to Node.js](/lectures/11-internet-deep-dive/README.md)
+  - [11 - Internet Deep Dive](/lectures/11-internet-deep-dive/README.md)
 - [Tests](/lectures/tests/README.md)
 - [Resources](resources.md)
 - [Environment Setup](environment.md)
