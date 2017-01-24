@@ -18,6 +18,7 @@ Course materials (syllabus, lectures, additional resources) for the UAGC IT Read
   - [09 - All Together Now](/lectures/09-all-together-now/README.md)
   - [10 - Intro to Node.js](/lectures/10-intro-to-nodejs/README.md)
   - [11 - Internet Deep Dive](/lectures/11-internet-deep-dive/README.md)
+  - [12 - Creating Web Services](/lectures/12-creating-web-services/README.md)
 - [Tests](/lectures/tests/README.md)
 - [Resources](resources.md)
 - [Environment Setup](environment.md)
